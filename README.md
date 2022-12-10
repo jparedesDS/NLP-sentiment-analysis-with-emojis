@@ -1,2 +1,2 @@
-# sentiment-analysis-with-emojis
-Sentiment analysis through twitter by identifying emojis within the texts.
+# NLP SENTIMENT ANALYSYS WITH EMOJIS - NLP
+Sentiment analysis through twitter with emojis, using NLP
