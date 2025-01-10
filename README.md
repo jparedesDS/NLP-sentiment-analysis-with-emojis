@@ -47,7 +47,7 @@ The project utilizes the following Python libraries:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/twitter-sentiment-analysis-emojis.git
+   git clone https://github.com/jparedesDS/twitter-sentiment-analysis-emojis.git
 2. Install the required dependencies:
 ```
 pip install -r requirements.txt
